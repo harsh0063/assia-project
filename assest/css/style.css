@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Quicksand';
+    outline: none;
+}
+
+
+.Outfit{
+    font-family: 'Outfit' !important;
+}
+.bg-image{
+    background-image: url(../image/7257622dc309127b0f863d76fc5076ed.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+    height: 100vh;
+}
+.active_nav{
+    background: #C3E4FF;
+    border-radius: 100px;
+}
+.active_nav_a{
+    color: #171C20;
+    font-weight: 600;
+}
+nav{
+    display: none;
+}

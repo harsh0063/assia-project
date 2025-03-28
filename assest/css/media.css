@@ -1,0 +1,34 @@
+@media (max-width: 1200px) {}
+
+@media (max-width: 992px) {
+    .bg-image {
+        background-size: 40%;
+        background-position: bottom right;
+    }
+}
+
+@media (max-width: 768px) {}
+
+@media (max-width:576px) {
+    .bg-image {
+        background-size: 35%;
+       margin-bottom: 80px;
+       height: 91vh;
+    }
+
+    .Chatbot span {
+        display: none;
+    }
+
+    .Chatbot{
+        width: 56px;
+        height: 50px;
+        right: 16px;
+        bottom: 92px;
+    }
+    nav{
+        display: block;
+    }
+}
+
+@media (max-width:412px) {}
